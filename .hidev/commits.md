@@ -3,6 +3,14 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Fixed configs
+    - 389669f 2015-08-15 making configs (sol@hiqdev.com)
+    - 209626b 2015-08-15 making config (sol@hiqdev.com)
+    - 00fe625 2015-08-15 making config (sol@hiqdev.com)
+    - be35053 2015-08-15 admin/supportEmail moved to local (sol@hiqdev.com)
+    - 39bd75d 2015-08-15 NOT FINISHED: fixing to work (sol@hiqdev.com)
+    - d427dfd 2015-08-14 + init (sol@hiqdev.com)
+    - 6fd65ea 2015-08-14 removed bootstrap.php files (sol@hiqdev.com)
 - Inited
     - 6bcb39b 2015-08-14 inited (sol@hiqdev.com)
 
