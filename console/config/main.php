@@ -10,5 +10,7 @@ $params = array_merge(
 );
 
 return [
-    'params'   => $params,
+    'supportEmail' => 'support@ahnames.com',
+    'adminEmail'   => 'support@ahnames.com',
+    'params'       => $params,
 ];
