@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Added basics, made working
 - Fixed configs
 - Inited
 

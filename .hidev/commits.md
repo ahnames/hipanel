@@ -3,7 +3,12 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added basics, made working
+    - be52e01 2015-08-16 - require request module (sol@hiqdev.com)
+    - 7d12601 2015-08-16 preparing runtime dirs (sol@hiqdev.com)
 - Fixed configs
+    - 687a481 2015-08-15 making configs (sol@hiqdev.com)
+    - a1ba830 2015-08-15 making configs (sol@hiqdev.com)
     - 389669f 2015-08-15 making configs (sol@hiqdev.com)
     - 209626b 2015-08-15 making config (sol@hiqdev.com)
     - 00fe625 2015-08-15 making config (sol@hiqdev.com)
