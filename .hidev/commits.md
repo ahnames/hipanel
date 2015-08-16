@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Fixed code styling
+    - 6c94c0f 2015-08-16 php-cs-fixed (sol@hiqdev.com)
 - Added basics, made working
     - be52e01 2015-08-16 - require request module (sol@hiqdev.com)
     - 7d12601 2015-08-16 preparing runtime dirs (sol@hiqdev.com)
