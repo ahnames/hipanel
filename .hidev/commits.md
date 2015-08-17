@@ -3,6 +3,7 @@ ahnames/hipanel commits history
 
 ## Under development
 
+    - 24f7d94 2015-08-16 + assets dir at frontend and backend (sol@hiqdev.com)
 - Fixed code styling
     - 6c94c0f 2015-08-16 php-cs-fixed (sol@hiqdev.com)
 - Added basics, made working

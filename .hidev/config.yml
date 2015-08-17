@@ -6,6 +6,7 @@ package:
     homepage:       https://ahnames.com/
     keywords:       ahnames, hipanel, control panel, hosting, domains
     year:           2015
+    description:    This is AHnames realization of HiPanel
 
 require:
     ahnames/hidev-config-php:    "*"
