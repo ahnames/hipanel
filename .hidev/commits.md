@@ -3,6 +3,9 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added better README
+    - b202250 2015-08-17 doing README (sol@hiqdev.com)
+- Added basics
     - 24f7d94 2015-08-16 + assets dir at frontend and backend (sol@hiqdev.com)
 - Fixed code styling
     - 6c94c0f 2015-08-16 php-cs-fixed (sol@hiqdev.com)
