@@ -3,4 +3,4 @@
 
 $dest = str_replace('\\', '/', __DIR__);
 
-include(__DIR__ . '/vendor/hiqdev/hipanel/init');
+include(__DIR__ . '/vendor/hiqdev/hipanel-core/init');
