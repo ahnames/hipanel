@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
+    - f2ab7e4 2015-08-17 fixed require hipanel-core (sol@hiqdev.com)
 - Added better README
     - b202250 2015-08-17 doing README (sol@hiqdev.com)
 - Added basics

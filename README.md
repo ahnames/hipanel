@@ -8,7 +8,7 @@ This is AHnames realization of HiPanel
 
 ## Installation
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+The preferred way to install this project is through [composer](http://getcomposer.org/download/).
 
 ```
 php composer.phar create-project "ahnames/hipanel:*" directory2install

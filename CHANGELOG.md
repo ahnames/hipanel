@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
 - Added better README
 - Added basics
 - Fixed code styling
