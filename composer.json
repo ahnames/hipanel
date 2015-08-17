@@ -26,7 +26,7 @@
     ],
     "require": {
         "php": "~5.4",
-        "hiqdev/hipanel": "*@dev",
+        "hiqdev/hipanel-core": "*@dev",
         "hiqdev/hipanel-module-dashboard": "*@dev",
         "hiqdev/hipanel-module-client": "*@dev",
         "hiqdev/hipanel-module-domain": "*@dev",
