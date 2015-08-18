@@ -1,6 +1,3 @@
-# environmental files
-yii
-
 # vendor dirs
 vendor
 
@@ -22,3 +19,6 @@ nbproject
 .settings
 Thumbs.db
 .DS_Store
+
+# environmental files
+yii
