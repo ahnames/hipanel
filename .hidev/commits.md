@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added favicon.ico
+    - 1a92e00 2015-08-18 + favicon.ico (sol@hiqdev.com)
 - Fixed .gitignore to not ignore .gitignore
     - 7e73af4 2015-08-18 improved gitignores to not ignore .gitignore (sol@hiqdev.com)
 - Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
