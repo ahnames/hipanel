@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Fixed .gitignore to not ignore .gitignore
+    - 7e73af4 2015-08-18 improved gitignores to not ignore .gitignore (sol@hiqdev.com)
 - Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
     - 92c1530 2015-08-17 fixed init after renaming to hipanel-core (sol@hiqdev.com)
     - f2ab7e4 2015-08-17 fixed require hipanel-core (sol@hiqdev.com)

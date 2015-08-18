@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Fixed .gitignore to not ignore .gitignore
 - Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
 - Added better README
 - Added basics
