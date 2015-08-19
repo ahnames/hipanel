@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added orgName and orgUrl params
+    - 7965f9a 2015-08-18 + orgName and orgUrl params (sol@hiqdev.com)
 - Added: gitignore for yii
     - 6146cb8 2015-08-18 Merge pull request #1 from SilverFire/master (sol@hiqdev.com)
     - 14a8832 2015-08-18 yii file in the root of project added to .gitignore (d.naumenko.a@gmail.com)
