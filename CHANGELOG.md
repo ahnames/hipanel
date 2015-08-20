@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Added orgName and orgUrl params
 - Added: gitignore for yii
 - Added favicon.ico
 - Fixed .gitignore to not ignore .gitignore
