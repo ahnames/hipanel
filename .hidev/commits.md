@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Fixed to No license
+    - a50482d 2015-08-20 changed to No license (sol@hiqdev.com)
 - Added orgName and orgUrl params
     - 7965f9a 2015-08-18 + orgName and orgUrl params (sol@hiqdev.com)
 - Added: gitignore for yii
