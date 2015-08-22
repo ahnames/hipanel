@@ -3,6 +3,7 @@ ahnames/hipanel commits history
 
 ## Under development
 
+    - 12942fb 2015-08-22 - require hiqdev/yii2-asset-hipanel (sol@hiqdev.com)
 - Added orgName and orgUrl params
     - 7965f9a 2015-08-18 + orgName and orgUrl params (sol@hiqdev.com)
 - Added: gitignore for yii
