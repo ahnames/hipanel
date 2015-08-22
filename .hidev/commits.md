@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added ProjectAsset with logo positions
+    - 1e16a50 2015-08-22 + ProjectAsset (sol@hiqdev.com)
 - Removed use of hipanel theme
     - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
 - Removed excessive gitignores
