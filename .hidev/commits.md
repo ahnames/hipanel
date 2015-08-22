@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Removed use of hipanel theme
+    - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
 - Removed excessive gitignores
     - 988f415 2015-08-22 removed excessive gitignores (sol@hiqdev.com)
 - Removed require hiqdev/yii2-asset-hipanel

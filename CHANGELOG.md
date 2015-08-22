@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Removed use of hipanel theme
 - Removed excessive gitignores
 - Removed require hiqdev/yii2-asset-hipanel
 - Fixed to No license
