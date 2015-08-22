@@ -9,4 +9,5 @@ package:
     description:    This is AHnames realization of HiPanel
 
 require:
-    ahnames/hidev-config-php:    "*"
+    ahnames/hidev-config:       "*"
+    ahnames/hidev-config-php:   "*"

@@ -3,6 +3,9 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Removed excessive gitignores
+- Removed require hiqdev/yii2-asset-hipanel
+- Fixed to No license
 - Added orgName and orgUrl params
 - Added: gitignore for yii
 - Added favicon.ico
