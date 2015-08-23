@@ -10,4 +10,4 @@ package:
 
 require:
     ahnames/hidev-config:       "*"
-    ahnames/hidev-config-php:   "*"
+    hiqdev/hidev-config-php:    "*"
