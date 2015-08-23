@@ -3,6 +3,9 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added favicon.ico at frontend and backend
+    - af7ed6f 2015-08-23 + favicon at backend (sol@hiqdev.com)
+    - 1a92e00 2015-08-18 + favicon.ico (sol@hiqdev.com)
 - Added ProjectAsset with logo positions
     - 1e16a50 2015-08-22 + ProjectAsset (sol@hiqdev.com)
 - Removed use of hipanel theme
@@ -18,8 +21,6 @@ ahnames/hipanel commits history
 - Added: gitignore for yii
     - 6146cb8 2015-08-18 Merge pull request #1 from SilverFire/master (sol@hiqdev.com)
     - 14a8832 2015-08-18 yii file in the root of project added to .gitignore (d.naumenko.a@gmail.com)
-- Added favicon.ico
-    - 1a92e00 2015-08-18 + favicon.ico (sol@hiqdev.com)
 - Fixed .gitignore to not ignore .gitignore
     - 7e73af4 2015-08-18 improved gitignores to not ignore .gitignore (sol@hiqdev.com)
 - Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
