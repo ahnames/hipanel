@@ -3,6 +3,9 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php
+    - 7967610 2015-08-23 php-cs-fixed (sol@hiqdev.com)
+    - 3f97c81 2015-08-23 Removed ahnames/hidev-config-php used hiqdev/hidev-config-php (sol@hiqdev.com)
 - Added favicon.ico at frontend and backend
     - af7ed6f 2015-08-23 + favicon at backend (sol@hiqdev.com)
     - 1a92e00 2015-08-18 + favicon.ico (sol@hiqdev.com)

@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php
 - Added favicon.ico at frontend and backend
 - Added ProjectAsset with logo positions
 - Removed use of hipanel theme
