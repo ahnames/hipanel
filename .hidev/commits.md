@@ -10,6 +10,7 @@ ahnames/hipanel commits history
     - af7ed6f 2015-08-23 + favicon at backend (sol@hiqdev.com)
     - 1a92e00 2015-08-18 + favicon.ico (sol@hiqdev.com)
 - Added ProjectAsset with logo positions
+    - 6b74aab 2015-08-27 fixed css for mini logo (sol@hiqdev.com)
     - 1e16a50 2015-08-22 + ProjectAsset (sol@hiqdev.com)
 - Removed use of hipanel theme
     - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
