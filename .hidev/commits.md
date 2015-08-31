@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added use of params.php from yii2-asset-ahnames for common/config/params.php
+    - 4cb26d7 2015-08-31 used params.php from yii2-asset-ahnames for common/config/params.php (sol@hiqdev.com)
 - Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php
     - 7967610 2015-08-23 php-cs-fixed (sol@hiqdev.com)
     - 3f97c81 2015-08-23 Removed ahnames/hidev-config-php used hiqdev/hidev-config-php (sol@hiqdev.com)
