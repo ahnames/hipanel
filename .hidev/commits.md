@@ -3,6 +3,8 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Added stock module
+    - 48a1922 2015-09-07 added stock module (sol@hiqdev.com)
 - Added use of params.php from yii2-asset-ahnames for common/config/params.php
     - 4cb26d7 2015-08-31 used params.php from yii2-asset-ahnames for common/config/params.php (sol@hiqdev.com)
 - Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php

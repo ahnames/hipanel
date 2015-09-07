@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Added stock module
 - Added use of params.php from yii2-asset-ahnames for common/config/params.php
 - Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php
 - Added favicon.ico at frontend and backend
