@@ -3,6 +3,9 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
+    - 793b177 2015-09-08 Merge pull request #2 from SilverFire/master (sol@hiqdev.com)
+    - dc679d2 2015-09-08 Replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify (d.naumenko.a@gmail.com)
 - Added stock module
     - 48a1922 2015-09-07 added stock module (sol@hiqdev.com)
 - Added use of params.php from yii2-asset-ahnames for common/config/params.php
