@@ -3,6 +3,10 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Fixed requirements in composer.json
+    - 8f5b6ab 2015-09-09 fixed requires in composer.json (sol@hiqdev.com)
+    - 12942fb 2015-08-22 - require hiqdev/yii2-asset-hipanel (sol@hiqdev.com)
+    - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
 - Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
     - 793b177 2015-09-08 Merge pull request #2 from SilverFire/master (sol@hiqdev.com)
     - dc679d2 2015-09-08 Replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify (d.naumenko.a@gmail.com)
@@ -19,12 +23,8 @@ ahnames/hipanel commits history
 - Added ProjectAsset with logo positions
     - 6b74aab 2015-08-27 fixed css for mini logo (sol@hiqdev.com)
     - 1e16a50 2015-08-22 + ProjectAsset (sol@hiqdev.com)
-- Removed use of hipanel theme
-    - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
 - Removed excessive gitignores
     - 988f415 2015-08-22 removed excessive gitignores (sol@hiqdev.com)
-- Removed require hiqdev/yii2-asset-hipanel
-    - 12942fb 2015-08-22 - require hiqdev/yii2-asset-hipanel (sol@hiqdev.com)
 - Fixed to No license
     - a50482d 2015-08-20 changed to No license (sol@hiqdev.com)
 - Added orgName and orgUrl params
@@ -39,11 +39,9 @@ ahnames/hipanel commits history
     - f2ab7e4 2015-08-17 fixed require hipanel-core (sol@hiqdev.com)
 - Added better README
     - b202250 2015-08-17 doing README (sol@hiqdev.com)
-- Added basics
-    - 24f7d94 2015-08-16 + assets dir at frontend and backend (sol@hiqdev.com)
-- Fixed code styling
-    - 6c94c0f 2015-08-16 php-cs-fixed (sol@hiqdev.com)
 - Added basics, made working
+    - 24f7d94 2015-08-16 + assets dir at frontend and backend (sol@hiqdev.com)
+    - 6c94c0f 2015-08-16 php-cs-fixed (sol@hiqdev.com)
     - be52e01 2015-08-16 - require request module (sol@hiqdev.com)
     - 7d12601 2015-08-16 preparing runtime dirs (sol@hiqdev.com)
 - Fixed configs
@@ -56,7 +54,6 @@ ahnames/hipanel commits history
     - 39bd75d 2015-08-15 NOT FINISHED: fixing to work (sol@hiqdev.com)
     - d427dfd 2015-08-14 + init (sol@hiqdev.com)
     - 6fd65ea 2015-08-14 removed bootstrap.php files (sol@hiqdev.com)
-- Inited
     - 6bcb39b 2015-08-14 inited (sol@hiqdev.com)
 
 ## Development started 2015-08-14
