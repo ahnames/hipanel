@@ -4,6 +4,7 @@ ahnames/hipanel commits history
 ## Under development
 
 - Fixed requirements in composer.json
+    - 7cae54a 2015-09-18 - require 2amigos/yii2-editable-widget (sol@hiqdev.com)
     - 8f5b6ab 2015-09-09 fixed requires in composer.json (sol@hiqdev.com)
     - 12942fb 2015-08-22 - require hiqdev/yii2-asset-hipanel (sol@hiqdev.com)
     - d2baeae 2015-08-22 - hipanel themes (sol@hiqdev.com)
