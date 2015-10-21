@@ -29,6 +29,7 @@
         "ahnames/yii2-asset-ahnames": "*@dev",
         "hiqdev/hipanel-core": "*@dev",
         "hiqdev/hipanel-module-dashboard": "*@dev",
+        "hiqdev/hipanel-module-cart": "*@dev",
         "hiqdev/hipanel-module-client": "*@dev",
         "hiqdev/hipanel-module-domain": "*@dev",
         "hiqdev/hipanel-module-ticket": "*@dev",
@@ -48,6 +49,8 @@
         "hiqdev/yii2-menumanager": "*@dev",
         "hiqdev/yii2-thememanager": "*@dev",
         "hiqdev/yii2-pluginmanager": "*@dev",
+        "hiqdev/yii2-merchant": "*@dev",
+        "hiqdev/php-merchant": "*@dev",
         "kartik-v/yii2-builder": "dev-master",
         "kartik-v/yii2-editable": "*@dev",
         "kartik-v/yii2-mpdf": "*@dev",
@@ -61,7 +64,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ahnames\\hipanel\\": ""
+            "ahnames\\hipanel\\": "src"
         }
     },
     "extra": {
