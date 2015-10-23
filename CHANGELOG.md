@@ -3,7 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
-- Fixed requirements in composer.json
+- Added more modules and fixed requirements
 - Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
 - Added stock module
 - Added use of params.php from yii2-asset-ahnames for common/config/params.php
