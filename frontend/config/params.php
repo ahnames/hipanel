@@ -1,7 +1,7 @@
 <?php
 
 /*
- * AHnames HiPanel
+ * AHnames implementation of HiPanel
  *
  * @link      https://ahnames.com/
  * @package   hipanel
