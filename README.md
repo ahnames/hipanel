@@ -1,11 +1,22 @@
 AHnames HiPanel
----------------
+===============
 
-This is AHnames realization of HiPanel
+**AHnames implementation of HiPanel**
 
-[![Latest Stable Version](https://poser.pugx.org/ahnames/hipanel/v/stable.png)](https://packagist.org/packages/ahnames/hipanel)
-[![Total Downloads](https://poser.pugx.org/ahnames/hipanel/downloads.png)](https://packagist.org/packages/ahnames/hipanel)
+[![Latest Stable Version](https://poser.pugx.org/ahnames/hipanel/v/stable)](//packagist.org/packages/ahnames/hipanel)
+[![Total Downloads](https://poser.pugx.org/ahnames/hipanel/downloads)](//packagist.org/packages/ahnames/hipanel)
 [![Dependency Status](https://www.versioneye.com/php/ahnames:hipanel/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:hipanel/dev-master)
+
+[HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.
+This package is HiPanel build for [AHnames](https://ahnames.com) domain registrator.
+
+## Installation
+
+The preferred way to install this project is through [composer](http://getcomposer.org/download/).
+
+```
+php composer.phar create-project "ahnames/hipanel:*" directory2install
+```
 
 ## Configuration
 
@@ -14,7 +25,7 @@ This is AHnames realization of HiPanel
 
 ## License
 
-This project is released under the terms of the No license [license](https://github.com/hiqdev/hidev/blob/master/LICENSE).
+This project is released under the terms of the No license [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/no-license).
 
 Copyright © 2015, AHnames (https://ahnames.com/)

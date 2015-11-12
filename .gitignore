@@ -19,7 +19,13 @@ nbproject
 Thumbs.db
 .DS_Store
 
-# environmental files
+# Codeception generated files
+tests/_support/_generated
+
+# php-cs-fixer cache
+.php_cs.cache
+
+# environment files
 yii
 */web/index*.php
 */config/*-local*
