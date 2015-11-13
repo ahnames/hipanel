@@ -4,6 +4,7 @@ ahnames/hipanel commits history
 ## Under development
 
 - Added requires for yii2-merchant and yii2-cart
+    - 0960af8 2015-11-13 required yii2-cart <- hipanel-module-cart (sol@hiqdev.com)
     - 1f192b9 2015-11-12 php-cs-fixed (sol@hiqdev.com)
     - e0e73c6 2015-11-12 improved package description (sol@hiqdev.com)
     - 90cc26b 2015-11-12 + require omnipay packages (sol@hiqdev.com)
