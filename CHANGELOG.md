@@ -3,7 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
-- Added requires for yii2-merchant and yii2-cart
+- Added requires for yii2-merchant, yii2-cart, payment-icons
 - Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
 - Added stock module
 - Added use of params.php from yii2-asset-ahnames for common/config/params.php
