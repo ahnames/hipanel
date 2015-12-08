@@ -52,6 +52,7 @@
         "hiqdev/yii2-pluginmanager": "*@dev",
         "hiqdev/yii2-cart": "*@dev",
         "hiqdev/yii2-merchant": "*@dev",
+        "hiqdev/php-merchant": "*@dev",
         "hiqdev/omnipay-ecoin": "*@dev",
         "hiqdev/omnipay-epayments": "*@dev",
         "hiqdev/omnipay-epayservice": "*@dev",
