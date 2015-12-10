@@ -3,8 +3,8 @@ AHnames HiPanel
 
 **AHnames implementation of HiPanel**
 
-[![Latest Stable Version](https://poser.pugx.org/ahnames/hipanel/v/stable)](//packagist.org/packages/ahnames/hipanel)
-[![Total Downloads](https://poser.pugx.org/ahnames/hipanel/downloads)](//packagist.org/packages/ahnames/hipanel)
+[![Latest Stable Version](https://poser.pugx.org/ahnames/hipanel/v/stable)](https://packagist.org/packages/ahnames/hipanel)
+[![Total Downloads](https://poser.pugx.org/ahnames/hipanel/downloads)](https://packagist.org/packages/ahnames/hipanel)
 [![Dependency Status](https://www.versioneye.com/php/ahnames:hipanel/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:hipanel/dev-master)
 
 [HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.

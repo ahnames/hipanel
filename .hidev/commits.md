@@ -3,7 +3,12 @@ ahnames/hipanel commits history
 
 ## Under development
 
-- Added requires for yii2-merchant, yii2-cart, payment-icons
+- Changed PHP version constraint to >=5.5
+    - 47a6646 2015-12-10 fixed PHP version constraint to >=5.5 (sol@hiqdev.com)
+    - c1f80aa 2015-12-09 Updated composer.json - added PHP7 (d.naumenko.a@gmail.com)
+- Added requires for yii2-cart, yii2-merchant, php-merchant, payment-icons
+    - b5f8cc3 2015-12-10 + require hiqdev/php-merchant (sol@hiqdev.com)
+    - 08538dc 2015-12-08 Added hiqdev/php-merchant dependency (d.naumenko.a@gmail.com)
     - 698c385 2015-11-30 fixed requirements: hiqdev/payment-icons, dercoder/omnipay-webmoney (sol@hiqdev.com)
     - 12588e8 2015-11-23 Added php-collection dependency (d.naumenko.a@gmail.com)
     - cb95d3d 2015-11-17 composer.json - yii2 switched to dev-version (d.naumenko.a@gmail.com)
