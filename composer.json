@@ -59,7 +59,6 @@
         "hiqdev/omnipay-interkassa": "*@dev",
         "hiqdev/omnipay-robokassa": "*@dev",
         "hiqdev/omnipay-okpay": "*@dev",
-        "hiqdev/omnipay-paypal": "*@dev",
         "hiqdev/omnipay-qiwi": "*@dev",
         "hiqdev/omnipay-paxum": "*@dev",
         "hiqdev/omnipay-yandexmoney": "*@dev",
