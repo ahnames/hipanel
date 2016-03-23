@@ -69,7 +69,7 @@
         "kartik-v/yii2-mpdf": "*@dev",
         "michelf/php-smartypants": "1.6.*@dev",
         "yiisoft/yii2-bootstrap": "*@dev",
-        "hiqdev/hipanel-domain-checker": "*"
+        "hiqdev/hipanel-domain-checker": "*@dev"
     },
     "require-dev": {
         "yiisoft/yii2-codeception": "*",
