@@ -83,6 +83,12 @@
             "ahnames\\hipanel\\": "src"
         }
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.hiqdev.com"
+        }
+    ],
     "extra": {
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
