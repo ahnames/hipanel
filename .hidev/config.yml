@@ -1,16 +1,13 @@
 package:
-    name:           hipanel
-    namespace:      ahnames\hipanel
-    headline:       AHnames HiPanel
-    title:          AHnames implementation of HiPanel
     type:           project
+    name:           hipanel
+    title:          AHnames implementation of HiPanel
+    headline:       AHnames HiPanel
     homepage:       https://ahnames.com/
     keywords:       ahnames, hipanel, control panel, hosting, domains
-    year:           2015
+    namespace:      ahnames\hipanel
     description:    |
         [HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.
+
         This package is HiPanel build for [AHnames](https://ahnames.com) domain registrator.
 
-require:
-    ahnames/hidev-config:       "*"
-    hiqdev/hidev-config-php:    "*"

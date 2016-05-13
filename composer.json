@@ -25,10 +25,9 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
-        "yiisoft/yii2": "*@dev",
-        "ahnames/yii2-asset-ahnames": "*@dev",
-        "hiqdev/payment-icons": "*@dev",
+        "yiisoft/yii2": "2.x",
+        "ahnames/yii2-asset-ahnames": "<2.0",
+        "hiqdev/payment-icons": "<2.0",
         "hiqdev/hipanel-core": "*@dev",
         "hiqdev/hipanel-module-dashboard": "*@dev",
         "hiqdev/hipanel-module-client": "*@dev",
@@ -73,10 +72,9 @@
         "hiqdev/hipanel-domain-checker": "*@dev"
     },
     "require-dev": {
-        "yiisoft/yii2-codeception": "*",
-        "yiisoft/yii2-debug": "*",
-        "yiisoft/yii2-gii": "*",
-        "yiisoft/yii2-faker": "*"
+        "hiqdev/hidev-php": "<2.0",
+        "ahnames/hidev-vendor": "<2.0",
+        "hiqdev/hidev": "dev-master"
     },
     "autoload": {
         "psr-4": {
@@ -86,13 +84,7 @@
     "repositories": [
         {
             "type": "composer",
-            "url": "https://asset-packagist.hiqdev.com"
+            "url": "https://asset-packagist.org"
         }
-    ],
-    "extra": {
-        "asset-installer-paths": {
-            "npm-asset-library": "vendor/npm",
-            "bower-asset-library": "vendor/bower"
-        }
-    }
+    ]
 }
