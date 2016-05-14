@@ -5,8 +5,8 @@
  *
  * @link      https://ahnames.com/
  * @package   hipanel
- * @license   No license
- * @copyright Copyright (c) 2015, AHnames (https://ahnames.com/)
+ * @license   proprietary
+ * @copyright Copyright (c) 2015-2016, AHnames (https://ahnames.com/)
  */
 
 namespace ahnames\hipanel\assets;
