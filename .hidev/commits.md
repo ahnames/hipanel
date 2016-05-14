@@ -3,6 +3,20 @@ ahnames/hipanel commits history
 
 ## Under development
 
+    - a270af8 2016-05-14 inited tests (sol@hiqdev.com)
+    - 3fe08da 2016-05-13 removed frontend files (sol@hiqdev.com)
+    - 8556dce 2016-05-13 rearranged configs and assets (sol@hiqdev.com)
+    - f6d3003 2016-05-13 removed frontend files (sol@hiqdev.com)
+    - a029270 2016-05-13 removed unnecessary files (sol@hiqdev.com)
+    - d3997bd 2016-05-13 changed `minimum-stability` to dev (sol@hiqdev.com)
+    - 3577f5f 2016-05-13 fixing dependencies (sol@hiqdev.com)
+    - 3cdd41f 2016-04-23 Added asset-packagist to composer.json (d.naumenko.a@gmail.com)
+    - 13bc35e 2016-03-24 Updated composer.json - added yiisoft/yii2-debug @dev (d.naumenko.a@gmail.com)
+    - e15a01b 2016-03-23 Updated composer.json (d.naumenko.a@gmail.com)
+    - ac9b68d 2016-03-23 Updated composer.json (d.naumenko.a@gmail.com)
+    - 64cf42e 2016-03-12 Added dev-requirement for yii2-bootstrap (d.naumenko.a@gmail.com)
+    - f6308f3 2016-01-11 used hiqdev/omnipay-paypal <- omnipay/paypal (sol@hiqdev.com)
+    - d954694 2015-12-25 - require hiqdev/omnipay-paypal (sol@hiqdev.com)
 - Changed PHP version constraint to >=5.5
     - 47a6646 2015-12-10 fixed PHP version constraint to >=5.5 (sol@hiqdev.com)
     - c1f80aa 2015-12-09 Updated composer.json - added PHP7 (d.naumenko.a@gmail.com)
