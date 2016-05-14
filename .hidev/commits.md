@@ -3,6 +3,9 @@ ahnames/hipanel commits history
 
 ## Under development
 
+- Changed to new config scheme
+    - aeaf480 2016-05-14 csfixed (sol@hiqdev.com)
+    - 5c8079b 2016-05-14 rehideved (sol@hiqdev.com)
     - a270af8 2016-05-14 inited tests (sol@hiqdev.com)
     - 3fe08da 2016-05-13 removed frontend files (sol@hiqdev.com)
     - 8556dce 2016-05-13 rearranged configs and assets (sol@hiqdev.com)
@@ -15,12 +18,12 @@ ahnames/hipanel commits history
     - e15a01b 2016-03-23 Updated composer.json (d.naumenko.a@gmail.com)
     - ac9b68d 2016-03-23 Updated composer.json (d.naumenko.a@gmail.com)
     - 64cf42e 2016-03-12 Added dev-requirement for yii2-bootstrap (d.naumenko.a@gmail.com)
-    - f6308f3 2016-01-11 used hiqdev/omnipay-paypal <- omnipay/paypal (sol@hiqdev.com)
-    - d954694 2015-12-25 - require hiqdev/omnipay-paypal (sol@hiqdev.com)
 - Changed PHP version constraint to >=5.5
     - 47a6646 2015-12-10 fixed PHP version constraint to >=5.5 (sol@hiqdev.com)
     - c1f80aa 2015-12-09 Updated composer.json - added PHP7 (d.naumenko.a@gmail.com)
 - Added requires for yii2-cart, yii2-merchant, php-merchant, payment-icons
+    - f6308f3 2016-01-11 used hiqdev/omnipay-paypal <- omnipay/paypal (sol@hiqdev.com)
+    - d954694 2015-12-25 - require hiqdev/omnipay-paypal (sol@hiqdev.com)
     - b5f8cc3 2015-12-10 + require hiqdev/php-merchant (sol@hiqdev.com)
     - 08538dc 2015-12-08 Added hiqdev/php-merchant dependency (d.naumenko.a@gmail.com)
     - 698c385 2015-11-30 fixed requirements: hiqdev/payment-icons, dercoder/omnipay-webmoney (sol@hiqdev.com)

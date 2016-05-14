@@ -26,6 +26,8 @@
     ],
     "require": {
         "yiisoft/yii2": "2.x",
+        "yiisoft/yii2-bootstrap": "*@dev",
+        "yiisoft/yii2-debug": "*@dev",
         "ahnames/yii2-asset-ahnames": "<2.0",
         "hiqdev/payment-icons": "<2.0",
         "hiqdev/hipanel-core": "*@dev",
@@ -67,8 +69,6 @@
         "kartik-v/yii2-editable": "*@dev",
         "kartik-v/yii2-mpdf": "*@dev",
         "michelf/php-smartypants": "1.6.*@dev",
-        "yiisoft/yii2-bootstrap": "*@dev",
-        "yiisoft/yii2-debug": "*@dev",
         "hiqdev/hipanel-domain-checker": "*@dev"
     },
     "require-dev": {

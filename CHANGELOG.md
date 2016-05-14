@@ -3,6 +3,7 @@ ahnames/hipanel changelog
 
 ## Under development
 
+- Changed to new config scheme
 - Changed PHP version constraint to >=5.5
 - Added requires for yii2-cart, yii2-merchant, php-merchant, payment-icons
 - Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
