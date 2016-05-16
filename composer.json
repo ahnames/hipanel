@@ -28,7 +28,7 @@
         "yiisoft/yii2": "2.x",
         "yiisoft/yii2-bootstrap": "*@dev",
         "yiisoft/yii2-debug": "*@dev",
-        "ahnames/yii2-asset-ahnames": "<2.0",
+        "ahnames/yii2-asset-ahnames": "dev-master",
         "hiqdev/payment-icons": "<2.0",
         "hiqdev/hipanel-core": "*@dev",
         "hiqdev/hipanel-module-dashboard": "*@dev",
