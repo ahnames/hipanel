@@ -25,7 +25,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "2.x",
+        "yiisoft/yii2": "^2.0",
         "yiisoft/yii2-bootstrap": "*@dev",
         "yiisoft/yii2-debug": "*@dev",
         "ahnames/yii2-asset-ahnames": "dev-master",
@@ -79,6 +79,13 @@
     "autoload": {
         "psr-4": {
             "ahnames\\hipanel\\": "src"
+        }
+    },
+    "extra": {
+        "config-plugin": {
+            "params": "src/config/params.php",
+            "hisite": "src/config/hisite.php",
+            "hidev": "src/config/hidev.php"
         }
     },
     "minimum-stability": "dev",

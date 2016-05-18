@@ -9,6 +9,4 @@
  * @copyright Copyright (c) 2015-2016, AHnames (https://ahnames.com/)
  */
 
-return [
-    'params' => require __DIR__ . '/params.php',
-];
+return [];
