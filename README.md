@@ -16,11 +16,21 @@ This package is HiPanel build for [AHnames](https://ahnames.com) domain registra
 
 ## Installation
 
-The preferred way to install this project is through [composer](http://getcomposer.org/download/).
+The preferred way to install this yii2-extension is through [composer](http://getcomposer.org/download/).
+
+Either run
 
 ```sh
-php composer.phar create-project "ahnames/hipanel:*" directory2install
+php composer.phar require "ahnames/hipanel"
 ```
+
+or add
+
+```json
+"ahnames/hipanel": "*"
+```
+
+to the require section of your composer.json.
 
 ## License
 

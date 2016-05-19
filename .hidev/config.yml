@@ -1,5 +1,5 @@
 package:
-    type:           project
+    type:           yii2-extension
     name:           hipanel
     title:          AHnames implementation of HiPanel
     headline:       AHnames HiPanel
@@ -10,4 +10,3 @@ package:
         [HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.
 
         This package is HiPanel build for [AHnames](https://ahnames.com) domain registrator.
-

@@ -4,6 +4,8 @@ ahnames/hipanel commits history
 ## Under development
 
 - Changed to new config scheme
+    - 8f650e1 2016-05-18 used composer-config-plugin (sol@hiqdev.com)
+    - d3c23dc 2016-05-16 changed dependencies (sol@hiqdev.com)
     - aeaf480 2016-05-14 csfixed (sol@hiqdev.com)
     - 5c8079b 2016-05-14 rehideved (sol@hiqdev.com)
     - a270af8 2016-05-14 inited tests (sol@hiqdev.com)
