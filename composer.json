@@ -69,7 +69,10 @@
         "kartik-v/yii2-editable": "*@dev",
         "kartik-v/yii2-mpdf": "*@dev",
         "michelf/php-smartypants": "1.6.*@dev",
-        "hiqdev/hipanel-domain-checker": "*@dev"
+        "hiqdev/hipanel-domain-checker": "*@dev",
+        "yiisoft/yii2-bootstrap": "*@dev",
+        "yiisoft/yii2-debug": "*@dev",
+        "tysonmatanich/elementQuery": "*"
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
