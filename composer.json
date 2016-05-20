@@ -26,8 +26,6 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0",
-        "yiisoft/yii2-bootstrap": "*@dev",
-        "yiisoft/yii2-debug": "*@dev",
         "ahnames/yii2-asset-ahnames": "dev-master",
         "hiqdev/payment-icons": "<2.0",
         "hiqdev/hipanel-core": "*@dev",
