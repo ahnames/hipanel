@@ -49,7 +49,6 @@
         "hiqdev/yii2-higrid": "*@dev",
         "hiqdev/yii2-menumanager": "*@dev",
         "hiqdev/yii2-thememanager": "*@dev",
-        "hiqdev/yii2-pluginmanager": "*@dev",
         "hiqdev/yii2-cart": "*@dev",
         "hiqdev/yii2-merchant": "*@dev",
         "hiqdev/omnipay-ecoin": "*@dev",
