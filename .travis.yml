@@ -8,6 +8,8 @@ matrix:
     allow_failures:
         -
             php: hhvm
+        -
+            php: 5.5
 cache:
     directories:
         - $HOME/.composer/cache
@@ -17,10 +19,13 @@ before_install:
     - 'composer install --no-interaction'
     - './vendor/bin/hidev --version'
     - './vendor/bin/hidev travis/before_install'
+    - 'wget http://hiqdev.com/hidev/hidev.phar -O hidev.phar && chmod a+x hidev.phar'
+    - './hidev.phar --version'
+    - './hidev.phar travis/before_install'
 sudo: false
 install:
-    - './vendor/bin/hidev travis/install'
+    - './hidev.phar travis/install'
 script:
-    - './vendor/bin/hidev travis/script'
+    - './hidev.phar travis/script'
 after_script:
-    - './vendor/bin/hidev travis/after_script'
+    - './hidev.phar travis/after_script'
