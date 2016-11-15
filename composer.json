@@ -36,7 +36,6 @@
         "hiqdev/hipanel-module-finance": "*@dev",
         "hiqdev/hipanel-module-hosting": "*@dev",
         "hiqdev/hipanel-module-stock": "*@dev",
-        "hiqdev/hipanel-domain-checker": "*@dev",
         "hiqdev/hisite-module-news": "*@dev",
         "hiqdev/php-merchant": "*@dev",
         "hiqdev/yii2-theme-adminlte": "*@dev",
