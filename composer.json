@@ -62,7 +62,7 @@
         "hiqdev/omnipay-paypal": "*@dev",
         "hiqdev/omnipay-yandexmoney": "*@dev",
         "dercoder/omnipay-webmoney": "*@dev",
-        "michelf/php-smartypants": "1.6.*@dev",
+        "michelf/php-smartypants": "^1.8.0",
         "ahnames/yii2-asset-ahnames": "dev-master"
     },
     "require-dev": {
