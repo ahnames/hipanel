@@ -17,5 +17,24 @@ return [
                 \ahnames\assets\ahnames\AhnamesAsset::class,
             ],
         ],
+        'i18n' => [
+            'translations' => [
+                'ahnames:hipanel' => [
+                    'class' => \yii\i18n\PhpMessageSource::class,
+                    'basePath' => '@ahnames/hipanel/messages',
+                ],
+            ],
+        ],
+    ],
+    'container' => [
+        'definitions' => [
+            hipanel\modules\client\menus\ClientDetailMenu::class => [
+                'add' => [
+                    'old-panel' => [
+                        'menu' => ahnames\hipanel\menus\OldPanelMenu::class,
+                    ],
+                ],
+            ],
+        ],
     ],
 ];
