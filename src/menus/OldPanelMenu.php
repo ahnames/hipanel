@@ -2,10 +2,9 @@
 
 namespace ahnames\hipanel\menus;
 
-use hiqdev\menumanager\Menu;
 use Yii;
 
-class OldPanelMenu extends Menu
+class OldPanelMenu extends \hiqdev\yii2\menus\Menu
 {
     public function items()
     {
