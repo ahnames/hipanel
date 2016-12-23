@@ -28,10 +28,11 @@ return [
     ],
     'container' => [
         'definitions' => [
-            hipanel\modules\client\menus\ClientDetailMenu::class => [
+            \hiqdev\thememanager\menus\AbstractSidebarMenu::class => [
                 'add' => [
                     'old-panel' => [
-                        'menu' => ahnames\hipanel\menus\OldPanelMenu::class,
+                        'menu' => \ahnames\hipanel\menus\OldPanelMenu::class,
+                        'where' => 'last',
                     ],
                 ],
             ],
