@@ -26,16 +26,4 @@ return [
             ],
         ],
     ],
-    'container' => [
-        'definitions' => [
-            \hiqdev\thememanager\menus\AbstractSidebarMenu::class => [
-                'add' => [
-                    'old-panel' => [
-                        'menu' => \ahnames\hipanel\menus\OldPanelMenu::class,
-                        'where' => 'last',
-                    ],
-                ],
-            ],
-        ],
-    ],
 ];
