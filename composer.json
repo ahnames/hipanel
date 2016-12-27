@@ -27,6 +27,7 @@
     "require": {
         "yiisoft/yii2": "^2.0",
         "hiqdev/hipanel-core": "*@dev",
+        "hiqdev/hipanel-mrdp": "<2.0 || dev-master",
         "hiqdev/hipanel-module-dashboard": "*@dev",
         "hiqdev/hipanel-module-client": "*@dev",
         "hiqdev/hipanel-module-domain": "*@dev",
@@ -54,7 +55,7 @@
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
-        "ahnames/hidev-ahnames": "<2.0"
+        "ahnames/hidev-ahnames": "dev-master"
     },
     "autoload": {
         "psr-4": {
@@ -67,6 +68,7 @@
         }
     },
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "repositories": [
         {
             "type": "composer",

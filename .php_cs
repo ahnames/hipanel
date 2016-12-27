@@ -9,19 +9,23 @@ AHnames implementation of HiPanel
 @copyright Copyright (c) 2015-2016, AHnames (https://ahnames.com/)
 EOF;
 
-Symfony\CS\Fixer\Contrib\HeaderCommentFixer::setHeader($header);
-
-return Symfony\CS\Config\Config::create()
+return PhpCsFixer\Config::create()
     ->setUsingCache(true)
-    ->level(Symfony\CS\FixerInterface::PSR2_LEVEL)
-    ->fixers([
-        'header_comment',                        /// Add, replace or remove header comment.
-    ])
-    ->finder(
-        Symfony\CS\Finder\DefaultFinder::create()
+    ->setRiskyAllowed(true)
+    ->setRules(array(
+        '@PSR2' => true,
+        'header_comment'                             =>  [
+            'header'        => $header,
+            'separate'      => 'bottom',
+            'location'      => 'after_declare_strict',
+            'commentType'   => 'PHPDoc',
+        ],
+    ))
+    ->setFinder(
+        PhpCsFixer\Finder::create()
             ->in(__DIR__)
             ->notPath('vendor')
             ->notPath('runtime')
             ->notPath('web/assets')
-    )
+        )
 ;
