@@ -37,6 +37,7 @@
         "hiqdev/hipanel-module-hosting": "*@dev",
         "hiqdev/hipanel-module-stock": "*@dev",
         "hiqdev/hipanel-module-document": "*@dev",
+        "hiqdev/hipanel-module-mailing": "*@dev",
         "hiqdev/hipanel-mrdp": "<2.0 || dev-master",
         "hiqdev/hisite-module-news": "*@dev",
         "hiqdev/yii2-theme-adminlte": "*@dev",
