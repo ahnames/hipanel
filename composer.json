@@ -51,8 +51,7 @@
         "hiqdev/omnipay-paxum": "*@dev",
         "hiqdev/omnipay-paypal": "*@dev",
         "hiqdev/omnipay-yandexmoney": "*@dev",
-        "dercoder/omnipay-webmoney": "*@dev",
-        "ahnames/yii2-asset-ahnames": "dev-master"
+        "dercoder/omnipay-webmoney": "*@dev"
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
