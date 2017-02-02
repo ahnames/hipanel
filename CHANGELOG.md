@@ -1,26 +1,25 @@
-ahnames/hipanel changelog
--------------------------
+ahnames/hipanel
+---------------
 
-## Under development
+## [0.1.0] - 2017-02-02
 
-- Changed to new config scheme
-- Changed PHP version constraint to >=5.5
-- Added requires for yii2-cart, yii2-merchant, php-merchant, payment-icons
-- Changed: replaced raoul2000/yii2-pnotify-widget with iutbay/yii2-pnotify
-- Added stock module
-- Added use of params.php from yii2-asset-ahnames for common/config/params.php
-- Removed use of ahnames/hidev-config-php used hiqdev/hidev-config-php
-- Added favicon.ico at frontend and backend
-- Added ProjectAsset with logo positions
-- Removed excessive gitignores
-- Fixed to No license
-- Added orgName and orgUrl params
-- Added: gitignore for yii
-- Fixed .gitignore to not ignore .gitignore
-- Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core
-- Added better README
-- Added basics, made working
-- Fixed configs
+- Fixed requirements ([@hiqsol], [@SilverFire])
+- Added document, news and mailing modules requirements ([@SilverFire])
+- Changed to new config scheme ([@hiqsol], [@SilverFire])
+- Added stock module ([@hiqsol])
+- Added ProjectAsset with logo positions ([@hiqsol])
+- Fixed to No license ([@hiqsol])
+- Added orgName and orgUrl params ([@hiqsol], [@SilverFire])
+- Changed: hiqdev/hipanel renamed to hiqdev/hipanel-core ([@hiqsol])
+- Added basics ([@hiqsol])
 
-## Development started 2015-08-14
+## [Development started] - 2015-08-14
 
+[@SilverFire]: https://github.com/SilverFire
+[d.naumenko.a@gmail.com]: https://github.com/SilverFire
+[@hiqsol]: https://github.com/hiqsol
+[sol@hiqdev.com]: https://github.com/hiqsol
+[Under development]: https://github.com/ahnames/hipanel/releases
+[Under]: https://github.com/ahnames/hipanel/releases/tag/Under
+[0.0.1]: https://github.com/ahnames/hipanel/releases/tag/0.0.1
+[0.1.0]: https://github.com/ahnames/hipanel/releases/tag/0.1.0
