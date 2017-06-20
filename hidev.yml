@@ -5,7 +5,6 @@ package:
     headline:       AHnames HiPanel
     homepage:       https://ahnames.com/
     keywords:       ahnames, hipanel, control panel, hosting, domains
-    namespace:      ahnames\hipanel
     description:    |
         [HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.
 
