@@ -1,5 +1,6 @@
-ahnames/hipanel
----------------
+# ahnames/hipanel
+
+## [Under development]
 
 ## [0.1.0] - 2017-02-02
 
@@ -19,7 +20,7 @@ ahnames/hipanel
 [d.naumenko.a@gmail.com]: https://github.com/SilverFire
 [@hiqsol]: https://github.com/hiqsol
 [sol@hiqdev.com]: https://github.com/hiqsol
-[Under development]: https://github.com/ahnames/hipanel/releases
+[Under development]: https://github.com/ahnames/hipanel/compare/0.1.0...HEAD
 [Under]: https://github.com/ahnames/hipanel/releases/tag/Under
 [0.0.1]: https://github.com/ahnames/hipanel/releases/tag/0.0.1
 [0.1.0]: https://github.com/ahnames/hipanel/releases/tag/0.1.0

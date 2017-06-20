@@ -1,5 +1,4 @@
-AHnames HiPanel
-===============
+# AHnames HiPanel
 
 **AHnames implementation of HiPanel**
 

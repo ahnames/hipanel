@@ -1,5 +1,13 @@
-ahnames/hipanel
----------------
+# ahnames/hipanel
+
+## [Under development]
+
+    - [64029f0] 2017-06-20 renamed `web` config <- hisite [@hiqsol]
+    - [cd2541b] 2017-06-20 renamed `hidev.yml` [@hiqsol]
+    - [a9e0e17] 2017-06-20 reordered dashboard require to be latest [@hiqsol]
+    - [04f7d9c] 2017-06-15 added require hipanel-module-certificate [@hiqsol]
+    - [231eec9] 2017-02-15 removed requiring omnipay, moved to hipanel-module-finance [@hiqsol]
+    - [2255aac] 2017-02-07 emptied hisite config: removed use of assets and translations [@hiqsol]
 
 ## [0.1.0] - 2017-02-02
 
@@ -200,8 +208,14 @@ ahnames/hipanel
 [ae68b96]: https://github.com/ahnames/hipanel/commit/ae68b96
 [64999c6]: https://github.com/ahnames/hipanel/commit/64999c6
 [b52c5b8]: https://github.com/ahnames/hipanel/commit/b52c5b8
-[Under development]: https://github.com/ahnames/hipanel/releases
+[Under development]: https://github.com/ahnames/hipanel/compare/0.1.0...HEAD
 [Under]: https://github.com/ahnames/hipanel/releases/tag/Under
 [9895c3e]: https://github.com/ahnames/hipanel/commit/9895c3e
 [0.0.1]: https://github.com/ahnames/hipanel/releases/tag/0.0.1
 [0.1.0]: https://github.com/ahnames/hipanel/releases/tag/0.1.0
+[64029f0]: https://github.com/ahnames/hipanel/commit/64029f0
+[cd2541b]: https://github.com/ahnames/hipanel/commit/cd2541b
+[a9e0e17]: https://github.com/ahnames/hipanel/commit/a9e0e17
+[04f7d9c]: https://github.com/ahnames/hipanel/commit/04f7d9c
+[231eec9]: https://github.com/ahnames/hipanel/commit/231eec9
+[2255aac]: https://github.com/ahnames/hipanel/commit/2255aac
