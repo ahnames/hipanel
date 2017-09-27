@@ -33,6 +33,7 @@
         "hiqdev/hipanel-core": "*@dev",
         "hiqdev/hipanel-module-client": "*@dev",
         "hiqdev/hipanel-module-finance": "*@dev",
+        "hiqdev/hipanel-module-integrations": "<2.0 || dev-master",
         "hiqdev/hipanel-module-domain": "*@dev",
         "hiqdev/hipanel-module-dns": "*@dev",
         "hiqdev/hipanel-module-certificate": "<2.0 || dev-master",
