@@ -9,9 +9,12 @@
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ahnames/hipanel.svg)](https://scrutinizer-ci.com/g/ahnames/hipanel/)
 [![Dependency Status](https://www.versioneye.com/php/ahnames:hipanel/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:hipanel/dev-master)
 
-[HiPanel](http://hipanel.com) is next generation control panel for hosting, domains and more.
+[HiPanel] is next generation billing and control panel for hosting, domains and more.
 
-This package is HiPanel build for [AHnames](https://ahnames.com) domain registrator.
+This package is HiPanel build for [AHnames].com) domain registrator.
+
+[HiPanel]: https://hipanel.com/
+[AHnames]: https://ahnames.com/
 
 ## Installation
 
