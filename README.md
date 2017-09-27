@@ -11,10 +11,10 @@
 
 [HiPanel] is next generation billing and control panel for hosting, domains and more.
 
-This package is HiPanel build for [AHnames].com) domain registrator.
+This package is HiPanel build for [AHnames.com] domain registrator.
 
 [HiPanel]: https://hipanel.com/
-[AHnames]: https://ahnames.com/
+[AHnames.com]: https://ahnames.com/
 
 ## Installation
 
