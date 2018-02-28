@@ -8,4 +8,13 @@
  * @copyright Copyright (c) 2015-2017, AHnames (https://ahnames.com/)
  */
 
-return [];
+return [
+    'modules' => [
+        'language' => [
+            'languages' => [
+                'en' => 'English',
+                'ru' => 'Русский',
+            ],
+        ],
+    ],
+];
