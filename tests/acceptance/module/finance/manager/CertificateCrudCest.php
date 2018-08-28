@@ -33,7 +33,7 @@ class CertificateCrudCest
         $this->id = $page->createPlan();
     }
 
-    public function ensureThatICanAddPrices(Manager $I)
+    public function ensureThatICanAddPrices(Manager $I): void
     {
         $I->needPage(Url::to(['@plan/view', 'id' => $this->id]));
         $I->see('No prices found');
@@ -42,7 +42,7 @@ class CertificateCrudCest
         $price->ensureThereNoSuggestions('Certificate tariff');
     }
 
-    public function ensureICanUpdatePrices(Manager $I)
+    public function ensureICanUpdatePrices(Manager $I): void
     {
         $price = new PriceCertificateUpdate($I, $this->id);
         $price->updatePrices();

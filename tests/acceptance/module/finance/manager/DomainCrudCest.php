@@ -33,7 +33,7 @@ class DomainCrudCest
         $this->id = $page->createPlan();
     }
 
-    public function ensureThatICanAddPrices(Manager $I)
+    public function ensureThatICanAddPrices(Manager $I): void
     {
         $I->needPage(Url::to(['@plan/view', 'id' => $this->id]));
         $I->see('No prices found');
@@ -42,7 +42,7 @@ class DomainCrudCest
         $price->ensureThereNoSuggestions('Default Tariff');
     }
 
-    public function ensureICanUpdatePrices(Manager $I)
+    public function ensureICanUpdatePrices(Manager $I): void
     {
         $price = new PriceDomainUpdate($I, $this->id);
         $price->updatePrices();
