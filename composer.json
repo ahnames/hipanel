@@ -54,7 +54,8 @@
     },
     "autoload": {
         "psr-4": {
-            "ahnames\\hipanel\\": "src"
+            "ahnames\\hipanel\\": "src",
+            "ahnames\\hipanel\\tests\\": "tests"
         }
     },
     "extra": {
