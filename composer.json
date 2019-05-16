@@ -43,6 +43,7 @@
         "hiqdev/hipanel-module-document": "*@dev",
         "hiqdev/hipanel-module-mailing": "*@dev",
         "hiqdev/hipanel-module-ticket": "*@dev",
+        "hiqdev/hipanel-faq": "*@dev",
         "hiqdev/hipanel-mrdp": "<2.0 || dev-master",
         "hiqdev/hisite-module-news": "*@dev",
         "hiqdev/hipanel-module-dashboard": "*@dev",
