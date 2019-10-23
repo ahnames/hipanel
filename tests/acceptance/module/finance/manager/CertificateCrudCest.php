@@ -25,7 +25,7 @@ class CertificateCrudCest
         $this->fields = [
             'name' => uniqid(),
             'type' => 'Certificate tariff',
-            'client' => 'hipanel_test_manager@hiqdev.com',
+            'client' => 'hipanel_test_manager',
             'currency' => 'USD',
             'note' => 'test note',
         ];
