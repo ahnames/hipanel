@@ -13,7 +13,7 @@ namespace ahnames\hipanel\assets;
 
 class ProjectAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@ahnames/hipanel/assets/ProjectAssetFiles';
+    public $sourcePath = __DIR__ . '/ProjectAssetFiles';
 
     public $css = [
         'css/project.css',
