@@ -10,6 +10,6 @@
 
 return [
     'ticket.canSetSpent' => function ($model) {
-        return (is_array($model->topics) && array_key_exists('vds', $model->topics));
+        return true;
     },
 ];
