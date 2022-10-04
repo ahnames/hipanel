@@ -39,7 +39,6 @@
         "hiqdev/hipanel-module-certificate": "<2.0 || dev-master",
         "hiqdev/hipanel-module-server": "*@dev",
         "hiqdev/hipanel-module-hosting": "*@dev",
-        "hiqdev/hipanel-module-stock": "*@dev",
         "hiqdev/hipanel-module-document": "*@dev",
         "hiqdev/hipanel-module-mailing": "*@dev",
         "hiqdev/hipanel-module-ticket": "*@dev",
