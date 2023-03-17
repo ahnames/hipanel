@@ -25,7 +25,7 @@ class DomainCrudCest
         $this->fields = [
             'name' => uniqid(),
             'type' => 'Domain tariff',
-            'client' => 'hipanel_test_manager',
+            'client' => 'hipanel_test_reseller',
             'currency' => 'USD',
             'note' => 'test note',
         ];
@@ -38,8 +38,8 @@ class DomainCrudCest
         $I->needPage(Url::to(['@plan/view', 'id' => $this->id]));
         $I->see('No prices found');
         $price = new PriceDomainCreate($I, $this->id);
-        $price->addPrices('Default Tariff');
-        $price->ensureThereNoSuggestions('Default Tariff');
+        $price->addPrices('Domain');
+        $price->ensureThereNoSuggestions('Domain');
     }
 
     public function ensureICanUpdatePrices(Manager $I): void
