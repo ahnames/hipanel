@@ -25,7 +25,7 @@ class CertificateCrudCest
         $this->fields = [
             'name' => uniqid(),
             'type' => 'Certificate tariff',
-            'client' => 'hipanel_test_manager',
+            'client' => 'hipanel_test_reseller',
             'currency' => 'USD',
             'note' => 'test note',
         ];
@@ -38,8 +38,8 @@ class CertificateCrudCest
         $I->needPage(Url::to(['@plan/view', 'id' => $this->id]));
         $I->see('No prices found');
         $price = new PriceCertificateCreate($I, $this->id);
-        $price->addPrices('Certificate tariff');
-        $price->ensureThereNoSuggestions('Certificate tariff');
+        $price->addPrices('Cert');
+        $price->ensureThereNoSuggestions('Cert');
     }
 
     public function ensureICanUpdatePrices(Manager $I): void
